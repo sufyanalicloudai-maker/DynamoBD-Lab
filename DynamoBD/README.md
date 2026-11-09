@@ -137,17 +137,17 @@ Unlike a relational database (MySQL, PostgreSQL), DynamoDB does not require a fi
 ### 1. Table created successfully
 The `Students` table is **Active**, with `StudentID (S)` as the partition key and on-demand capacity.
 
-![Table created](images/dynamo1.png)
+![Table created](Images/dynamo1.png)
 
 ### 2. Adding / editing an item
 An item with `StudentID`, `Age`, `Course`, and `Name` attributes.
 
-![Edit item](images/dynamo2.png)
+![Edit item](Images/dynamo2.png)
 
 ### 3. Scanning the table
 The scan returns all 3 student items.
 
-![Table items](images/dynamo3.png)
+![Table items](Images/dynamo3.png)
 
 ---
 
