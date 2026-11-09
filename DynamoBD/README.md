@@ -227,8 +227,8 @@ aws dynamodb delete-table --table-name Students --region us-east-1
 **Sufyan Ali**
 Cloud Computing / AWS Cloud Security student
 
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
+- GitHub: [sufyanalicloudai-maker](https://github.com/sufyanalicloudai-maker)
+- LinkedIn: [Sufyan Ali](https://www.linkedin.com/in/sufyan-ali-57774a313)
 
 ---
 
